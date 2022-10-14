@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Deno Succinctly",
+    "description": "",
+    "isbn": 9781642002140,
+    "price": 0.00
+  },
+  {
+    "title": "Robotics, AI, and Humanity",
+    "description": "Science, Ethics, and Policy",
+    "isbn": 9783030541729,
+    "price": 59.99
+  },
+  {
+    "title": "Introduction to Autonomous Robots",
+    "description": "",
+    "isbn": 9781493773077,
+    "price": 20.99
+  },
+  {
+    "title": "Learning Go",
+    "description": "An Idiomatic Approach to Real-World Go Programming",
+    "isbn": 9781492077213,
+    "price": 35.88
+  },
+  {
+    "title": "Open Workbook of Cryptology",
+    "description": "A project-based introduction to crypto in Python",
+    "isbn": 1001656678502,
+    "price": 0.00
+  },
+  {
+    "title": "Embracing Modern C++ Safely",
+    "description": "",
+    "isbn": 9780137380350,
+    "price": 44.87
+  },
+  {
+    "title": "Retro Gaming with Raspberry Pi",
+    "description": "",
+    "isbn": 1001656317756,
+    "price": 0.00
+  },
+  {
+    "title": "Debugging with GDB",
+    "description": "The GNU Source-Level Debugger",
+    "isbn": 9780983159230,
+    "price": 65.00
+  },
+  {
+    "title": "Grokking Machine Learning",
+    "description": "",
+    "isbn": 9781617295911,
+    "price": 49.49
+  },
+  {
+    "title": "Functional Programming in Kotlin",
+    "description": "",
+    "isbn": 9781617297168,
+    "price": 18.63
+  },
+  {
+    "title": "Kubernetes Native Microservices",
+    "description": "",
+    "isbn": 9781617298653,
+    "price": 45.30
+  },
+  {
+    "title": "How to Lead in Data Science",
+    "description": "",
+    "isbn": 9781617298899,
+    "price": 43.49
+  },
+  {
+    "title": "Functional Programming in C#",
+    "description": "",
+    "isbn": 9781617299827,
+    "price": 53.99
+  },
+  {
+    "title": "Azure Pipelines Succinctly",
+    "description": "",
+    "isbn": 9781642002133,
+    "price": 0.00
+  },
+  {
+    "title": "Microsoft Excel Inside Out",
+    "description": "Office 2021 and Microsoft 365",
+    "isbn": 9780137559534,
+    "price": 42.16
+  },
+  {
+    "title": "Windows Internals, Part 2, 7th Edition",
+    "description": "",
+    "isbn": 9780135462409,
+    "price": 53.49
+  },
+  {
+    "title": "Microsoft Office Inside Out",
+    "description": "Office 2021 and Microsoft 365",
+    "isbn": 9780137564095,
+    "price": 36.93
+  },
+  {
+    "title": "Microsoft Excel Step by Step",
+    "description": "Office 2021 and Microsoft 365",
+    "isbn": 9780137564279,
+    "price": 30.32
+  },
+  {
+    "title": "Microsoft Excel Data Analysis",
+    "description": "Office 2021 and Microsoft 365",
+    "isbn": 9780137613663,
+    "price": 34.87
+  },
+  {
+    "title": "Intermediate Statistics with R",
+    "description": "",
+    "isbn": 1001651662833,
+    "price": 0.00
+  }
+]
